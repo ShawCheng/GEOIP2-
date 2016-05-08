@@ -1,2 +1,2 @@
-# GEOIP2-
+# antimal-GEOIP2
 to cooperate with antimal
